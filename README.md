@@ -61,3 +61,9 @@ MongoDB shell version, for querying database
 $ mongo
 ```
 note: helpful commands include ``` $ show dbs ``` and ``` $ use [databaseName] ```
+
+## Jekyll
+
+```
+$ bundle exec jekyll serve
+```
