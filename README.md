@@ -12,12 +12,13 @@ or
 ```
 $ rails start
 ```
+note: start with a ```bundle install```
 
 ## Sinatra
 ```
 $ ruby [filename.rb]
 ```
-note: Must have Sinatra required in file. For example: ``` require 'sinatra' ```
+note: must have Sinatra required in file. For example: ``` require 'sinatra' ```
 Port defaults to :4567
 
 ## Reactjs
@@ -29,6 +30,7 @@ $ npm start
 ```
 $ node [filename.js]
 ```
+note: create json package ```npm init -y```
 
 ### Using nodemon
 ```
