@@ -1,4 +1,4 @@
-# Server-Cheatsheet
+# Server Cheatsheet
 ## Background
 As a student in General Assembly's Web Development Immersive Program, we learn many technologies, making it sometimes difficult to remember all the terminal commands to start up my local server. So I'm making a cheatsheet for myself. 
 
