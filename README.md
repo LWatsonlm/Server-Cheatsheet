@@ -17,7 +17,7 @@ $ rails start
 ```
 $ ruby [filename.rb]
 ```
-notes: Must have Sinatra required in file. For example: ```ruby require 'sinatra' ```
+note: Must have Sinatra required in file. For example: ```ruby require 'sinatra' ```
 Port defaults to :4567
 
 ## Reactjs
