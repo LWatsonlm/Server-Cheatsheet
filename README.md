@@ -34,7 +34,7 @@ note: create json package ```npm init -y```
 
 ### Using nodemon
 ```
-$ nodemon [filename.js
+$ nodemon [filename.js]
 ```
 note: index.js is the default file, do not need to specify filename if using default
 
