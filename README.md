@@ -1,10 +1,10 @@
 # Server-Cheatsheet
 ## Background
-### As a student in General Assembly's Web Development Immersive Program, we learn many technologies, making it sometimes difficult to remember all the terminal commands to start up my local server. So I'm making a cheatsheet for myself. 
+As a student in General Assembly's Web Development Immersive Program, we learn many technologies, making it sometimes difficult to remember all the terminal commands to start up my local server. So I'm making a cheatsheet for myself. 
 
 Feel free to open a PR to add to this list. The more, the merrier.
 
-### Rails
+## Rails
 ```
 $ rails s
 ```
@@ -13,19 +13,19 @@ or
 $ rails start
 ```
 
-### Sinatra
+## Sinatra
 ```
 $ ruby [filename.rb]
 ```
 notes: Must have Sinatra required in file. For example: ```ruby require 'sinatra' ```
 Port defaults to :4567
 
-### Reactjs
+## Reactjs
 ```
 $ npm start
 ```
 
-### Node
+## Node
 ```
 $ node [filename.js]
 ```
@@ -36,7 +36,7 @@ $ nodemon [filename.js
 ```
 note: index.js is the default file, do not need to specify filename if using default
 
-### Angular
+## Angular
 ```
 $ hs
 ```
@@ -46,7 +46,7 @@ $ hs -p [port number]
 ```
 note: Url must have hashtag /#/appname in order to run on local
 
-### MongoDB
+## MongoDB
 ```
 $ mongod
 ```
